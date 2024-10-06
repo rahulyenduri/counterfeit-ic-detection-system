@@ -45,7 +45,7 @@ The following models were implemented and evaluated:
 Given the small size of the dataset, data augmentation was applied to artificially increase the number of training samples:
 
 Augmentation Techniques:
-	- Horizontal and vertical flipping
+  - Horizontal and vertical flipping
   - Rotation
   - Random background changes
   - Normalization: Pixel values were normalized to the range [0, 1] to improve model training efficiency.
